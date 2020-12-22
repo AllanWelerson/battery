@@ -11,6 +11,6 @@
   "dependencies": {
     "battery-level": "^3.0.0",
     "is-charging": "^2.0.0",
-    "node-notifier": "^6.0.0"
+    "node-notifier": "^8.0.1"
   }
 }
